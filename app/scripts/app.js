@@ -30,7 +30,10 @@ angular
         controller: 'AboutCtrl',
         controllerAs: 'about'
       })
+
       .otherwise({
-        redirectTo: '/'
+        templateUrl: 'views/login.html',
+        controller: 'LoginCtrl',
+        controllerAs: 'login'
       });
   });
