@@ -12,6 +12,7 @@ angular
   .module('mocextranetApp', [
     'ngAnimate',
     'ngCookies',
+    'ngMessages',
     'ngResource',
     'ngRoute',
     'ngSanitize',
