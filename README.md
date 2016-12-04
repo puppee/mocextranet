@@ -1,6 +1,6 @@
 # Miehetovelle.com Extranet
 
-Projekti on tehty [yo angular generator](https://github.com/yeoman/generator-angular)
+Projekti on tehty [yo angular generatorin](https://github.com/yeoman/generator-angular)
 versiolla 0.15.1.
 
 ## Build & development
